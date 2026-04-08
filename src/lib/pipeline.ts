@@ -365,7 +365,7 @@ Return:
       const text = await callGroq(prompt, true);
       return safeJson(text);
     } catch {
-      return { gaps: parsedJD.missingKeywords || [], strengths: [], suggestedSkills: [] };
+      return { gaps: parsedJD.keywords || [], strengths: [], suggestedSkills: [] };
     }
   }
 }
