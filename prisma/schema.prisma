@@ -1,0 +1,26 @@
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["driverAdapters"]
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model AnalysisResult {
+  id             String   @id @default(cuid())
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+  
+  resumeText     String   @db.Text
+  jobDescription String   @db.Text
+  
+  score           Int
+  presentKeywords String[]
+  missingKeywords String[]
+  suggestedSkills String[]
+  improvements    String[]
+  
+  optimizedResume String?  @db.Text
+  coverLetter     String?  @db.Text
+}

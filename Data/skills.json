@@ -1,0 +1,72 @@
+{
+  "technical": {
+    "Data & Analytics": [
+      "Statistical Analysis", "Predictive Modeling", "Data Mining", "Quantitative Research", "A/B Testing", 
+      "Machine Learning", "Artificial Intelligence", "Deep Learning", "Natural Language Processing", 
+      "Computer Vision", "Big Data", "Data Warehousing", "ETL Processes", "Data Pipeline Architecture"
+    ],
+    "Data Visualization": [
+      "Tableau", "Power BI", "Looker", "QlikView", "D3.js", "ggplot2", "Matplotlib", "Seaborn", "Plotly", 
+      "Dashboard Design", "Interactive Reporting", "Geospatial Mapping", "Network Graphs", "Real-Time Analytics"
+    ],
+    "Database Management": [
+      "SQL", "NoSQL", "PostgreSQL", "MySQL", "MongoDB", "Cassandra", "Redis", "Elasticsearch", 
+      "Amazon Redshift", "Google BigQuery", "Snowflake", "Data Lake Architecture", 
+      "Database Optimization", "Query Performance Tuning"
+    ],
+    "Programming": [
+      "Python", "R", "Java", "Scala", "C++", "JavaScript", "TypeScript", "Go", "Rust", "Ruby", "PHP", 
+      "Swift", "Kotlin", "MATLAB", "SAS", "SPSS", "Shell Scripting", "PowerShell", "Bash", 
+      "Git Version Control", "API Development", "Microservices"
+    ],
+    "Cloud Platforms": [
+      "Amazon Web Services (AWS)", "Microsoft Azure", "Google Cloud Platform (GCP)", "IBM Cloud", 
+      "Oracle Cloud", "Alibaba Cloud", "Multi-Cloud Architecture", "Hybrid Cloud Strategy", 
+      "Cloud Migration", "Cloud Cost Optimization"
+    ],
+    "DevOps": [
+      "Docker", "Kubernetes", "Terraform", "Ansible", "Jenkins", "GitHub Actions", "CircleCI", 
+      "GitLab CI/CD", "Helm", "Prometheus", "Grafana", "ELK Stack", "Infrastructure as Code (IaC)", 
+      "Site Reliability Engineering (SRE)"
+    ],
+    "Cybersecurity": [
+      "Penetration Testing", "Vulnerability Assessment", "Threat Modeling", 
+      "Security Information and Event Management (SIEM)", "Intrusion Detection Systems", 
+      "Encryption Protocols", "Zero Trust Architecture", "Compliance (GDPR, HIPAA, SOC 2)"
+    ]
+  },
+  "business": {
+    "Strategic Planning": [
+      "Market Analysis", "Competitive Intelligence", "Business Model Innovation", "Go-to-Market Strategy", 
+      "Product Strategy", "Corporate Strategy", "Mergers and Acquisitions", "Due Diligence", 
+      "Valuation Modeling", "Scenario Planning", "Risk Assessment", "Growth Strategy", 
+      "Market Entry Strategy", "Digital Transformation"
+    ],
+    "Operations Management": [
+      "Process Optimization", "Supply Chain Management", "Logistics Coordination", 
+      "Inventory Management", "Quality Assurance", "Six Sigma", "Lean Manufacturing", 
+      "Total Quality Management", "Capacity Planning", "Resource Allocation", 
+      "Workflow Automation", "Operational Efficiency"
+    ],
+    "Financial Analysis": [
+      "Financial Modeling", "Budget Management", "Forecasting", "Variance Analysis", 
+      "Profit and Loss Management", "Cash Flow Analysis", "Return on Investment (ROI)", 
+      "Net Present Value (NPV)", "Internal Rate of Return (IRR)", "Cost-Benefit Analysis", 
+      "Pricing Strategy", "Revenue Optimization"
+    ]
+  },
+  "soft": {
+    "Leadership": [
+      "Team Building", "Talent Development", "Performance Management", "Conflict Resolution", 
+      "Change Management", "Stakeholder Management", "Executive Presence", "Decision Making", 
+      "Strategic Vision", "Mentoring", "Coaching", "Succession Planning", 
+      "Organizational Development", "Culture Transformation"
+    ],
+    "Communication": [
+      "Business Writing", "Presentation Skills", "Public Speaking", "Executive Reporting", 
+      "Cross-Functional Collaboration", "Negotiation", "Influence Without Authority", 
+      "Active Listening", "Feedback Delivery", "Difficult Conversations", "Storytelling", 
+      "Visual Communication"
+    ]
+  }
+}
