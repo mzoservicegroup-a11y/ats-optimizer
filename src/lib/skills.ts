@@ -1,4 +1,4 @@
-import skillsData from '../../data/skills.json';
+import skillsData from '../../Data/skills.json';
 
 export type SkillCategory = 'technical' | 'business' | 'soft';
 
