@@ -23,7 +23,7 @@ if (typeof window === 'undefined') {
 
 // Pass connectionString explicitly - do NOT rely on env inside Pool
 const pool = new Pool({ connectionString });
-const adapter = new PrismaNeon(pool);
+const adapter = new PrismaNeon(pool as any);
 
 declare global {
   var __prisma: PrismaClient | undefined;
